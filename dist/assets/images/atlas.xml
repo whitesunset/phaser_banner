@@ -1,0 +1,13 @@
+<TextureAtlas imagePath="atlas.png">
+	<SubTexture name="button-default" x="0" y="72" width="403" height="70"/>
+	<SubTexture name="button-hover" x="0" y="0" width="403" height="70"/>
+	<SubTexture name="close" x="186" y="144" width="30" height="30"/>
+	<SubTexture name="dot" x="132" y="189" width="24" height="24"/>
+	<SubTexture name="kid" x="121" y="219" width="70" height="22"/>
+	<SubTexture name="logo" x="0" y="144" width="184" height="44"/>
+	<SubTexture name="man" x="0" y="219" width="119" height="24"/>
+	<SubTexture name="underline" x="0" y="190" width="131" height="4"/>
+	<SubTexture name="woman" x="0" y="196" width="125" height="21"/>
+	<SubTexture name="gift" x="218" y="144" width="57" height="59"/>
+	<SubTexture name="arrow" x="192" y="175" width="20" height="38"/>
+</TextureAtlas>
